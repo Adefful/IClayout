@@ -11,10 +11,12 @@ CONFIG += c++11
 SOURCES += \
     macroblock.cpp \
     main.cpp \
+    maininteraptionscene.cpp \
     mainwindow.cpp
 
 HEADERS += \
     macroblock.h \
+    maininteraptionscene.h \
     mainwindow.h
 
 FORMS += \
